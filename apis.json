@@ -1,0 +1,12 @@
+{
+    "apis": [
+        {
+            "method": "GET",
+            "url": "https://api.competitions.dev.kimo.ai/tech/competitions"
+        },
+        {
+            "method": "GET",
+            "url": "https://google.com"
+        }
+    ]
+}
